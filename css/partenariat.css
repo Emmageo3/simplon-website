@@ -26,6 +26,11 @@ img{
 .titre_sous_section h2{
     color: red;
 }
+.titre_sous_section h2{
+    color: red;
+    margin-left: 55px;
+    margin-top: 80px;
+}
 #div_contenue_reseau_entreprise
 {
     display: flex;
@@ -34,8 +39,9 @@ img{
 }
 .div_contenue
 { 
-    margin-top: 1.5rem;
-    width: 48%;
+   margin-top: 1.5rem;
+   width: 48%;
+   background-color: red;
 }
 .div_contenue video
 {
@@ -47,5 +53,14 @@ img{
     font-size: 24px;
 }
 h2,hr{
-    margin-left: 2rem;
+    margin-left: 55px;
+}
+#div_video
+{
+    width: 770px;
+    margin-right: 19px;
+}
+#div_text
+{
+    width: 300px;
 }
